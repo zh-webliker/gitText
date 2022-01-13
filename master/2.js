@@ -1,0 +1,1 @@
+console.log('新增master 2.js')
